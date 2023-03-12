@@ -3,7 +3,7 @@
 
 ## Задание:
 Разработать программу, которая ищет в ASCII-строке заданную подстроку и возвращает индекс первого символа первого вхождения подстроки в строке. Подстрока вводится как параметр.
-> Программа на 4 балла (именованнаые каналы, 3 процесса) ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) ![Build Status](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+> Программа на 4 балла (именованнаые каналы, 3 процесса) ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Входные данные
 Запуск программы происходит с помощью выполнения исполняемого файла с 3 аргументами командной строки:
