@@ -1,8 +1,6 @@
 ### Фортов Егор Кириллович, БПИ214
 ### Вариант 23
-> Программа на 5 баллов (именованнаые каналы, 3 процесса)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+> Программа на 5 баллов (именованнаые каналы, 3 процесса) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 #### Задание:
 Разработать программу, которая ищет в ASCII-строке заданную подстроку и возвращает индекс первого символа первого вхождения подстроки в строке. Подстрока вводится как параметр.
