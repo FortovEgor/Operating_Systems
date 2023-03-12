@@ -3,3 +3,6 @@
 
 
 ### Фортов Егор Кириллович, БПИ214
+
+![alt text](https://www.celebrity-cutouts.com.au/wp-content/uploads/2021/08/bill-gates-celebrity-mask.jpg)
+
