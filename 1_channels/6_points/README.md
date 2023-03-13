@@ -23,6 +23,8 @@
 <img src="Схема решаемой задачи.png" alt="Picture for VS Code" />
 
 
+![image info](./Схема решаемой задачи.png)
+
 ### Результаты тестирования
 Было проведено 5 тестов (str - строка, в которойищем подстроку s):
  - str = "abcdefghjklmn"; s = "def"; RESULT: 3 (correct)
