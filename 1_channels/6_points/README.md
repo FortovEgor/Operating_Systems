@@ -20,7 +20,7 @@
 
 > Схема, демонстрирующая архитектуру приложения:
 
-<img src="sheme.png" alt="Picture for VS Code" />
+<img src="scheme.png" alt="Picture for VS Code" />
 
 ### Результаты тестирования
 Было проведено 5 тестов (str - строка, в которойищем подстроку s):
