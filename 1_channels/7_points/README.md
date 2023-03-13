@@ -1,6 +1,6 @@
 ### Фортов Егор Кириллович, БПИ214
 ### Вариант 23
-> Программа на 6 баллов (неименованнаые каналы, 2 процесса) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Best code editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Guthub rules](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+> Программа на 7 баллов (именованнаые каналы, 2 процесса) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Best code editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Guthub rules](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Задание:
 Разработать программу, которая ищет в ASCII-строке заданную подстроку и возвращает индекс первого символа первого вхождения подстроки в строке. Подстрока вводится как параметр.
@@ -13,10 +13,10 @@
 
 
 ### Отчёт о реализации программы
-Решение данной задачи было спроектировано, используя многопроцессорность и неимеованные каналы. Было сделано 3 дочерних процесса:
- - 1-ый процесс (child process #1) читает текстовые данные из заданного файла (Input file) и через неименованный̆ канал передает их второму процессу;
- - 2-ой (child process #2) процесс осуществляет обработку данных в соответствии с заданием и передает результат обработки через неименованный̆ канал обратно первому процессу;
- - 1-ый (child process #3) процесс осуществляет вывод данных в заданный файл (Output file).
+Решение данной задачи было спроектировано, используя многопроцессорность и имеованные каналы. Было создано 2 дочерних процесса:
+ - 1-ый процесс (child process #1) читает текстовые данные из заданного файла (Input file) и через именованный̆ канал передает их второму процессу;
+ - 2-ой (child process #2) процесс осуществляет обработку данных в соответствии с заданием и передает результат обработки через именованный̆ канал обратно первому процессу;
+ - 1-ый (child process #1) процесс осуществляет вывод данных в заданный файл (Output file).
 
 > Схема, демонстрирующая архитектуру приложения:
 
