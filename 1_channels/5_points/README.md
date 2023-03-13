@@ -20,7 +20,7 @@
 
 > Схема, демонстрирующая архитектуру приложения:
 
-<img src="Схема решаемой задачи.png" alt="Picture for VS Code" />
+<img src="scheme.png" alt="Picture for VS Code" />
 ![image info](Схема решаемой задачи.png)
 
 
