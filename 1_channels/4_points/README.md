@@ -12,6 +12,9 @@
 ![](scheme_animated.mp4)
 <a href="{https://www.youtube.com/watch?v=OHxle8E8H-s}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 ### Входные данные
 Запуск программы происходит с помощью выполнения исполняемого файла с 3 аргументами командной строки:
  - Имя файла (с расширением), в котором лежит строка (просто цельная строка, без доп. символов), в которой мы будем искать подстроку;
