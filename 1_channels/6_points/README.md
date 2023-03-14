@@ -21,7 +21,7 @@
 > Схема, демонстрирующая архитектуру приложения:
 
 [//]: <img src="scheme.png" alt="Picture for VS Code" />
-<img src="scheme_animated_2.mov" width="600" height="500" alt="См. схему в файлах"/>
+<img src="scheme_animated_2.mov" width="800" height="500" alt="См. схему в файлах"/>
 
 ### Результаты тестирования
 Было проведено 5 тестов (str - строка, в которойищем подстроку s):
