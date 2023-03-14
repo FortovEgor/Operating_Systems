@@ -10,7 +10,7 @@
 </video>
 
 ![](scheme_animated.mp4)
-
+<a href="{https://www.youtube.com/watch?v=OHxle8E8H-s}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
 ### Входные данные
 Запуск программы происходит с помощью выполнения исполняемого файла с 3 аргументами командной строки:
