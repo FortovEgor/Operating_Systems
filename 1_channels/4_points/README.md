@@ -9,7 +9,7 @@
   <source src="scheme_animated.mp4" type="video/mp4">
 </video>
 
-![](cheme_animated.mp4)
+![](scheme_animated.mp4)
 
 
 ### Входные данные
