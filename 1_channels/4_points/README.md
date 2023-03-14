@@ -9,6 +9,8 @@
 https://i.yapx.cc/OqAI7.gif
 https://i.gifer.com/embedded/download/OC9y.gif
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+
 
 ### Входные данные
 Запуск программы происходит с помощью выполнения исполняемого файла с 3 аргументами командной строки:
