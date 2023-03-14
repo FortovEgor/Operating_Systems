@@ -13,7 +13,7 @@
 
 <a href="{https://www.youtube.com/watch?v=OHxle8E8H-s}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([scheme_animated.mp4](https://www.youtube.com/watch?v=OHxle8E8H-s))
 
 
 ### Входные данные
