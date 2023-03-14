@@ -5,6 +5,8 @@
 Разработать программу, которая ищет в ASCII-строке заданную подстроку и возвращает индекс первого символа первого вхождения подстроки в строке. Подстрока вводится как параметр.
 > Программа на 4 балла (именованные каналы, 3 процесса) ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) ![Best code editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Github rules](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+![](https://i.yapx.cc/OqAI7.gif)
+
 ### Входные данные
 Запуск программы происходит с помощью выполнения исполняемого файла с 3 аргументами командной строки:
  - Имя файла (с расширением), в котором лежит строка (просто цельная строка, без доп. символов), в которой мы будем искать подстроку;
