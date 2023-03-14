@@ -15,7 +15,7 @@
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)]([scheme_animated.mp4](https://www.youtube.com/watch?v=OHxle8E8H-s))
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+<img src="scheme_animated.mov" width="400" height="400" />
 
 
 ### Входные данные
