@@ -5,17 +5,7 @@
 Разработать программу, которая ищет в ASCII-строке заданную подстроку и возвращает индекс первого символа первого вхождения подстроки в строке. Подстрока вводится как параметр.
 > Программа на 4 балла (именованные каналы, 3 процесса) ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) ![Best code editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Github rules](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<video width="320" height="240" controls>
-  <source src="scheme_animated.mp4" type="video/mp4">
-</video>
-
-![](scheme_animated.mp4)
-
-<a href="{https://www.youtube.com/watch?v=OHxle8E8H-s}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([scheme_animated.mp4](https://www.youtube.com/watch?v=OHxle8E8H-s))
-
-<img src="scheme_animated.mov" width="400" height="400" />
+<img src="scheme_animated.mov" width="600" height="400" />
 
 
 ### Входные данные
