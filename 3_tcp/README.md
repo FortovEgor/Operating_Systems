@@ -16,8 +16,8 @@
 В данной же программе я создал эмуляцию с продуктами (для адекватного вывода).
 
 Пример использования программы:
-$ ./server 55555
 ```
+$ ./server 55555
 Waiting for clients...
 New customer #4 connected
 New customer #5 connected
@@ -52,9 +52,8 @@ Working day has ended
 ```
 
 Пример использования клиентской программы для вывода:
-
-$ ./client_connect 127.0.0.1 55555 bread cheese milk
 ```
+$ ./client_connect 127.0.0.1 55555 bread cheese milk
 Not found bread
 Buy cheese
 Buy milk
