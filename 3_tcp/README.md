@@ -17,6 +17,7 @@
 
 Пример использования программы:
 $ ./server 55555
+```
 Waiting for clients...
 New customer #4 connected
 New customer #5 connected
@@ -48,12 +49,13 @@ Buy banana
 Buy orange
 Customer #8 has left the store
 Working day has ended
-
+```
 
 Пример использования клиентской программы для вывода:
 
 $ ./client_connect 127.0.0.1 55555 bread cheese milk
+```
 Not found bread
 Buy cheese
 Buy milk
-
+```
